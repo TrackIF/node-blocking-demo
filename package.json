@@ -1,0 +1,9 @@
+{ "author": "Eric Caron <eric.caron@gmail.com>"
+  , "name" : "blocking-node"
+  , "version" : "0.1.0"
+  , "dependencies" :
+    { "bunyan": "latest"
+    , "moment": "latest"
+    , "restify": "latest"
+    }
+}
